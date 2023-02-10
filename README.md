@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParkerMagee
-- 👀 I’m interested in blockchain technology and want to become a full-time blockchain developer.
-- 🌱 I’m currently learning how to develop smart contracts and interact with different blockchains
-- 💞️ I’m looking to collaborate on any new project that involves working with blockchain technology.
+- 👀 I am currently working on developing full-stack applications with JavaScript as my primary language.
+- 🌱 My tech stack of choice has become the MERN stack but also have experince with firebase.
+- 💞️ Feel free to reach out to me at any time, I'm always interested in making new connections.
 - 📫 How to reach me: Email - magee.pg@gmail.com
 
 <!---
